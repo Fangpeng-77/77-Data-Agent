@@ -9,6 +9,6 @@ conn = pymysql.connect(
     charset="utf8mb4"
 )
 
-zhipu_ak = "Your ZhiPU API-Key"
+zhipu_ak = ""
 model_name = "glm-4"
 model_name_web_search = "glm-4-air"
